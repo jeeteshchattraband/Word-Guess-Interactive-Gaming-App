@@ -1,10 +1,12 @@
-# Angular Hangman Game#
+# Word Guess Interactive Gaming Application
+
+Created By : Jeetesh Chattraband
 
 ----------
 
-The Hangman word-guessing game hits a nice sweet spot when learning a new computer language. Not as trivial as "Hello World" but not overly difficult to implement.
+Word Guess Interactive Gaming Application hits a nice sweet spot when learning a new computer language. Not as trivial as "Hello World" but not overly difficult to implement.
 
-This version of Hangman was written utilizing the [Typescript](https://www.typescriptlang.org/) language and the [Angular](https://angular.io/) framework.  For this release, Typescript is at version 3.2.4 and Angular is at version 7.2.6.
+This version of  Word Guess Interactive Game was written utilizing the [Typescript](https://www.typescriptlang.org/) language and the [Angular](https://angular.io/) framework.  For this release, Typescript is at version 3.2.4 and Angular is at version 7.2.6.
 
 ![window view](https://github.com/ROpsal/ng2-hangman/blob/master/images/window.png)
 
@@ -18,7 +20,7 @@ This project was generated with version 7.3.3 of [angular-cli](https://github.co
 
 	npm install -g @angular/cli@latest
 
-From the Hangman project root directory, install *node* modules using:
+From the  Word Guess Interactive Game project root directory, install *node* modules using:
 
 	npm install
 
@@ -41,7 +43,7 @@ To use the Jetty-Runner web server, utilize the following from the `ng-hangman` 
 
 Navigate to `http://localhost:9090` to load the application in your browser.
 
-## Play Hangman
+## Play  Word Guess Interactive Game
 [ng-hangman](http://ng.hangman.fastmail.com.user.fm/)
 
 ## Further help
